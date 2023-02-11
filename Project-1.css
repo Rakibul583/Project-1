@@ -1,0 +1,22 @@
+#name1{
+    background-color:rgb(25, 121, 46)
+}
+#name2{
+    float:right;
+}
+#name3{
+    background-color: rgba(12, 70, 67, 0.753);
+}
+input{
+    border: 1px solid red;
+    border-radius: 6px;
+    margin: 1%;
+    display:inline;
+}
+select{
+    margin: 1%;
+}
+label{
+width: 200px;
+display:inline-block;
+}
